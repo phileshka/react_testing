@@ -55,7 +55,7 @@ export default class Header extends Component {
                   <FormControl
                     type="text"
                     placeholder="Search"
-                    className="me-sm-2"
+                    className="md-sm-2"
                   />
                 </Form>
                 <Button variant="outline-info">Search</Button>
